@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a website ❤
-- 🌱 I’m currently learning angular
-- 🤔 I’m looking for help with some work
+- 🔭 I’m currently working on developing new skills❤
+- 🌱 I’m currently learning new languages
+- 🤔 I’m looking for help in some projects
 - 💬 Ask me about my work 🥰
 - 📫 How to reach me: madhaniruhi@gmail.com
 
